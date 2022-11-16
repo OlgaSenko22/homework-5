@@ -1,0 +1,33 @@
+#heading {
+    color: blue;
+}
+h2 {
+    color: yellow;
+}
+.gray {
+    color: gray;
+}
+.red {
+    color: red;
+}
+.text {
+    font-weight: 800;
+}
+p i {
+    color: palevioletred;
+}
+#country {
+    color: aqua;
+}
+span {
+    color: seagreen;
+}
+.gold {
+    color: gold;
+}
+.green {
+    color: green;
+}
+div ul li {
+    color: orangered;
+}
